@@ -1,16 +1,31 @@
-## Hi there 👋
+# Илья Орешкин — Frontend Developer (React / Next.js / TypeScript)
 
-<!--
-**ioreshkin/ioreshkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Студент 3 курса бакалавриата **НИУ ВШЭ** (очно), направление **Бизнес-информатика (38.03.05)**.  
+Ищу **стажировку / junior-позицию** во фронтенд-разработке.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Основной стек
+- **React**, **Next.js**
+- **TypeScript**
+- **Redux**, **Zustand**
+
+---
+
+## Проекты
+
+### Weather App — приложение погоды с динамическим фоном
+Интерактивное приложение: текущая погода и прогноз + визуальная сцена, которая меняется в зависимости от времени суток и погодных условий.  
+**Репозиторий:** https://github.com/ioreshkin/WeatherApp  
+
+Ключевые элементы:
+- работа с внешним API и преобразование данных в удобную модель
+- FSD архитектура и разделение client/server логики (Next.js)
+- UI-слои (градиент, солнце/луна, облака, туман, осадки, ветер) и плавные переходы
+- адаптивная вёрстка
+
+---
+## Контакты
+- Email: **ioreshkin.dev@gmail.com**
+- Telegram: **https://t.me/fennonx**
+- CV (резюме): **https://hh.ru/resume/0cca8bcbff0ffd87ba0039ed1f42705572714d**
