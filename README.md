@@ -39,4 +39,3 @@ Frontend Dev в Ozon Bank
 ## Контакты
 - Email: **ioreshkin.dev@gmail.com**
 - Telegram: **https://t.me/fennonx**
-- CV (резюме): **https://hh.ru/resume/0cca8bcbff0ffd87ba0039ed1f42705572714d**
